@@ -6,8 +6,6 @@
 >The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
 ## Usage
 > Navigation links that will lead you to the needed content in correlation and relativity.
-## Website
-
 ## Password Generator
 ![Screen Shot 2022-07-05 at 8 25 35 PM](https://user-images.githubusercontent.com/107279088/177454588-1b046ea6-5d48-4792-98a4-56dc0cea8586.png)
 
